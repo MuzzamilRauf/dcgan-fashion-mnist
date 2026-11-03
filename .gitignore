@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Generated outputs
+outputs/
+checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+
